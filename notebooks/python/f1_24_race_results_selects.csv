@@ -1,0 +1,65 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points,Set Fastest Lap,Fastest Lap Time
+Bahrain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,57,1:31:44.742,26,Yes,1:32.608
+Bahrain,2,11,Sergio Perez,Red Bull Racing Honda RBPT,5,57,+22.457,18,No,1:34.364
+Bahrain,15,23,Alexander Albon,Williams Mercedes,13,56,+1 lap,0,No,1:35.723
+Bahrain,18,10,Pierre Gasly,Alpine Renault,20,56,+1 lap,0,No,1:34.805
+Saudi Arabia,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,50,1:20:43.273,25,No,1:31.773
+Saudi Arabia,2,11,Sergio Perez,Red Bull Racing Honda RBPT,3,50,+13.643,18,No,1:32.273
+Saudi Arabia,11,23,Alexander Albon,Williams Mercedes,12,50,+88.354,0,No,1:32.307
+Saudi Arabia,NC,10,Pierre Gasly,Alpine Renault,18,1,DNF,0,No,
+Australia,5,11,Sergio Perez,Red Bull Racing Honda RBPT,6,58,+56.309,10,No,1:20.388
+Australia,11,23,Alexander Albon,Williams Mercedes,12,57,+1 lap,0,No,1:21.618
+Australia,13,10,Pierre Gasly,Alpine Renault,17,57,+1 lap,0,No,1:21.090
+Australia,NC,1,Max Verstappen,Red Bull Racing Honda RBPT,1,3,DNF,0,No,1:23.115
+Japan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,53,1:54:23.566,26,Yes,1:33.706
+Japan,2,11,Sergio Perez,Red Bull Racing Honda RBPT,2,53,+12.535,18,No,1:33.945
+Japan,16,10,Pierre Gasly,Alpine Renault,17,52,+1 lap,0,No,1:36.642
+Japan,NC,23,Alexander Albon,Williams Mercedes,14,0,DNF,0,No,
+China,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,56,1:40:52.554,25,No,1:38.406
+China,3,11,Sergio Perez,Red Bull Racing Honda RBPT,2,56,+19.160,15,No,1:39.388
+China,12,23,Alexander Albon,Williams Mercedes,14,56,+65.506,0,No,1:40.790
+China,13,10,Pierre Gasly,Alpine Renault,15,56,+69.223,0,No,1:39.198
+Miami,2,1,Max Verstappen,Red Bull Racing Honda RBPT,1,57,+7.612,18,No,1:31.261
+Miami,4,11,Sergio Perez,Red Bull Racing Honda RBPT,4,57,+14.650,12,No,1:30.855
+Miami,12,10,Pierre Gasly,Alpine Renault,12,57,+44.958,0,No,1:32.055
+Miami,18,23,Alexander Albon,Williams Mercedes,14,57,+76.091,0,No,1:30.849
+Emilia Romagna,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,63,1:25:25.252,25,No,1:20.366
+Emilia Romagna,8,11,Sergio Perez,Red Bull Racing Honda RBPT,11,63,+54.776,4,No,1:19.686
+Emilia Romagna,16,10,Pierre Gasly,Alpine Renault,15,62,+1 lap,0,No,1:21.371
+Emilia Romagna,NC,23,Alexander Albon,Williams Mercedes,14,51,DNF,0,No,1:21.274
+Monaco,6,1,Max Verstappen,Red Bull Racing Honda RBPT,6,78,+13.853,8,No,1:14.569
+Monaco,9,23,Alexander Albon,Williams Mercedes,9,77,+1 lap,2,No,1:17.060
+Monaco,10,10,Pierre Gasly,Alpine Renault,10,77,+1 lap,1,No,1:15.625
+Monaco,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,16,0,DNF,0,No,
+Canada,1,1,Max Verstappen,Red Bull Racing Honda RBPT,2,70,1:45:47.927,25,No,1:15.569
+Canada,9,10,Pierre Gasly,Alpine Renault,15,70,+30.021,2,No,1:17.013
+Canada,NC,23,Alexander Albon,Williams Mercedes,10,52,DNF,0,No,1:19.359
+Canada,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,16,51,DNF,0,No,1:18.819
+Spain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,2,66,1:28:20.227,25,No,1:17.776
+Spain,8,11,Sergio Perez,Red Bull Racing Honda RBPT,11,66,+59.524,4,No,1:17.785
+Spain,9,10,Pierre Gasly,Alpine Renault,7,66,+62.025,2,No,1:19.045
+Spain,18,23,Alexander Albon,Williams Mercedes,20,65,+1 lap,0,No,1:19.132
+Austria,5,1,Max Verstappen,Red Bull Racing Honda RBPT,1,71,+37.253,10,No,1:07.719
+Austria,7,11,Sergio Perez,Red Bull Racing Honda RBPT,8,71,+54.672,6,No,1:09.694
+Austria,10,10,Pierre Gasly,Alpine Renault,13,71,+61.766,1,No,1:09.609
+Austria,15,23,Alexander Albon,Williams Mercedes,16,70,+1 lap,0,No,1:10.364
+Great Britain,2,1,Max Verstappen,Red Bull Racing Honda RBPT,4,52,+1.465,18,No,1:28.952
+Great Britain,9,23,Alexander Albon,Williams Mercedes,9,52,+68.387,2,No,1:29.718
+Great Britain,17,11,Sergio Perez,Red Bull Racing Honda RBPT,20,50,+2 laps,0,No,1:29.707
+Great Britain,NC,10,Pierre Gasly,Alpine Renault,19,0,DNS,0,No,
+Hungary,5,1,Max Verstappen,Red Bull Racing Honda RBPT,3,70,+21.349,10,No,1:20.908
+Hungary,7,11,Sergio Perez,Red Bull Racing Honda RBPT,16,70,+39.792,6,No,1:21.096
+Hungary,14,23,Alexander Albon,Williams Mercedes,13,69,+1 lap,0,No,1:23.930
+Hungary,NC,10,Pierre Gasly,Alpine Renault,20,33,DNF,0,No,1:23.340
+Belgium,4,1,Max Verstappen,Red Bull Racing Honda RBPT,11,44,+9.226,12,No,1:46.128
+Belgium,7,11,Sergio Perez,Red Bull Racing Honda RBPT,2,44,+3.195,7,Yes,1:44.701
+Belgium,12,23,Alexander Albon,Williams Mercedes,10,44,+63.651,0,No,1:47.996
+Belgium,13,10,Pierre Gasly,Alpine Renault,12,44,+64.365,0,No,1:47.418
+Netherlands,2,1,Max Verstappen,Red Bull Racing Honda RBPT,2,72,+22.896,18,No,1:14.752
+Netherlands,6,11,Sergio Perez,Red Bull Racing Honda RBPT,5,72,+39.542,8,No,1:14.587
+Netherlands,9,10,Pierre Gasly,Alpine Renault,9,71,+1 lap,2,No,1:14.855
+Netherlands,14,23,Alexander Albon,Williams Mercedes,19,71,+1 lap,0,No,1:14.434
+Italy,6,1,Max Verstappen,Red Bull Racing Honda RBPT,7,53,+37.932,8,No,1:21.745
+Italy,8,11,Sergio Perez,Red Bull Racing Honda RBPT,8,53,+54.148,4,No,1:22.971
+Italy,9,23,Alexander Albon,Williams Mercedes,9,53,+67.456,2,No,1:23.918
+Italy,15,10,Pierre Gasly,Alpine Renault,14,52,+1 lap,0,No,1:23.755

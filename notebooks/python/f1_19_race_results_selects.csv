@@ -1,0 +1,85 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Total Time/Gap/Retirement,Points,Fastest Lap
+Australia,3,33,Max Verstappen,Red Bull Racing Honda,4,58,+22.520,15,No
+Australia,11,10,Pierre Gasly,Red Bull Racing Honda,17,57,+1 lap,0,No
+Australia,13,11,Sergio Perez,Racing Point BWT Mercedes,10,57,+1 lap,0,No
+Australia,14,23,Alexander Albon,Scuderia Toro Rosso Honda,13,57,+1 lap,0,No
+Bahrain,4,33,Max Verstappen,Red Bull Racing Honda,5,57,+6.408,12,No
+Bahrain,8,10,Pierre Gasly,Red Bull Racing Honda,13,57,+58.094,4,No
+Bahrain,9,23,Alexander Albon,Scuderia Toro Rosso Honda,12,57,+62.697,2,No
+Bahrain,10,11,Sergio Perez,Racing Point BWT Mercedes,14,57,+63.696,1,No
+China,4,33,Max Verstappen,Red Bull Racing Honda,5,56,+27.627,12,No
+China,6,10,Pierre Gasly,Red Bull Racing Honda,6,56,+89.307,9,Yes
+China,8,11,Sergio Perez,Racing Point BWT Mercedes,12,55,+1 lap,4,No
+China,10,23,Alexander Albon,Scuderia Toro Rosso Honda,20,55,+1 lap,1,No
+Azerbaijan,4,33,Max Verstappen,Red Bull Racing Honda,4,51,+17.493,12,No
+Azerbaijan,6,11,Sergio Perez,Racing Point BWT Mercedes,5,51,+76.416,8,No
+Azerbaijan,11,23,Alexander Albon,Scuderia Toro Rosso Honda,11,50,+1 lap,0,No
+Azerbaijan,NC,10,Pierre Gasly,Red Bull Racing Honda,20,38,DNF,0,No
+Spain,3,33,Max Verstappen,Red Bull Racing Honda,4,66,+7.679,15,No
+Spain,6,10,Pierre Gasly,Red Bull Racing Honda,6,66,+19.576,8,No
+Spain,11,23,Alexander Albon,Scuderia Toro Rosso Honda,11,66,+35.445,0,No
+Spain,15,11,Sergio Perez,Racing Point BWT Mercedes,15,66,+46.877,0,No
+Monaco,4,33,Max Verstappen,Red Bull Racing Honda,3,78,+5.537,12,No
+Monaco,5,10,Pierre Gasly,Red Bull Racing Honda,8,78,+9.946,11,Yes
+Monaco,8,23,Alexander Albon,Scuderia Toro Rosso Honda,10,78,+55.200,4,No
+Monaco,12,11,Sergio Perez,Racing Point BWT Mercedes,16,77,+1 lap,0,No
+Canada,5,33,Max Verstappen,Red Bull Racing Honda,9,70,+57.655,10,No
+Canada,8,10,Pierre Gasly,Red Bull Racing Honda,5,69,+1 lap,4,No
+Canada,12,11,Sergio Perez,Racing Point BWT Mercedes,15,69,+1 lap,0,No
+Canada,NC,23,Alexander Albon,Scuderia Toro Rosso Honda,13,59,DNF,0,No
+France,4,33,Max Verstappen,Red Bull Racing Honda,4,53,+34.905,12,No
+France,10,10,Pierre Gasly,Red Bull Racing Honda,9,52,+1 lap,1,No
+France,12,11,Sergio Perez,Racing Point BWT Mercedes,14,52,+1 lap,0,No
+France,15,23,Alexander Albon,Scuderia Toro Rosso Honda,11,52,+1 lap,0,No
+Austria,1,33,Max Verstappen,Red Bull Racing Honda,2,71,1:22:01.822,26,Yes
+Austria,7,10,Pierre Gasly,Red Bull Racing Honda,8,70,+1 lap,6,No
+Austria,11,11,Sergio Perez,Racing Point BWT Mercedes,13,70,+1 lap,0,No
+Austria,15,23,Alexander Albon,Scuderia Toro Rosso Honda,18,70,+1 lap,0,No
+Great Britain,4,10,Pierre Gasly,Red Bull Racing Honda,5,52,+34.692,12,No
+Great Britain,5,33,Max Verstappen,Red Bull Racing Honda,4,52,+39.458,10,No
+Great Britain,12,23,Alexander Albon,Scuderia Toro Rosso Honda,9,52,+75.617,0,No
+Great Britain,17,11,Sergio Perez,Racing Point BWT Mercedes,15,51,+1 lap,0,No
+Germany,1,33,Max Verstappen,Red Bull Racing Honda,2,64,1:44:31.275,26,Yes
+Germany,6,23,Alexander Albon,Scuderia Toro Rosso Honda,16,64,+10.052,8,No
+Germany,14,10,Pierre Gasly,Red Bull Racing Honda,4,61,DNF,0,No
+Germany,NC,11,Sergio Perez,Racing Point BWT Mercedes,8,1,DNF,0,No
+Hungary,2,33,Max Verstappen,Red Bull Racing Honda,1,70,+17.796,19,Yes
+Hungary,6,10,Pierre Gasly,Red Bull Racing Honda,6,69,+1 lap,8,No
+Hungary,10,23,Alexander Albon,Scuderia Toro Rosso Honda,12,69,+1 lap,1,No
+Hungary,11,11,Sergio Perez,Racing Point BWT Mercedes,16,69,+1 lap,0,No
+Belgium,5,23,Alexander Albon,Red Bull Racing Honda,17,44,+81.325,10,No
+Belgium,6,11,Sergio Perez,Racing Point BWT Mercedes,7,44,+84.448,8,No
+Belgium,9,10,Pierre Gasly,Scuderia Toro Rosso Honda,13,44,+109.168,2,No
+Belgium,NC,33,Max Verstappen,Red Bull Racing Honda,5,0,DNF,0,No
+Italy,6,23,Alexander Albon,Red Bull Racing Honda,8,53,+59.315,8,No
+Italy,7,11,Sergio Perez,Racing Point BWT Mercedes,18,53,+73.802,6,No
+Italy,8,33,Max Verstappen,Red Bull Racing Honda,19,53,+74.492,4,No
+Italy,11,10,Pierre Gasly,Scuderia Toro Rosso Honda,17,52,+1 lap,0,No
+Singapore,3,33,Max Verstappen,Red Bull Racing Honda,4,61,+3.821,15,No
+Singapore,6,23,Alexander Albon,Red Bull Racing Honda,6,61,+11.663,8,No
+Singapore,8,10,Pierre Gasly,Scuderia Toro Rosso Honda,11,61,+15.547,4,No
+Singapore,NC,11,Sergio Perez,Racing Point BWT Mercedes,15,42,DNF,0,No
+Russia,4,33,Max Verstappen,Red Bull Racing Honda,9,53,+14.210,12,No
+Russia,5,23,Alexander Albon,Red Bull Racing Honda,20,53,+38.348,10,No
+Russia,7,11,Sergio Perez,Racing Point BWT Mercedes,11,53,+48.728,6,No
+Russia,14,10,Pierre Gasly,Scuderia Toro Rosso Honda,16,53,+70.076,0,No
+Japan,4,23,Alexander Albon,Red Bull Racing Honda,6,52,+59.537,12,No
+Japan,7,10,Pierre Gasly,Scuderia Toro Rosso Honda,9,51,+1 lap,6,No
+Japan,8,11,Sergio Perez,Racing Point BWT Mercedes,17,51,+1 lap,4,No
+Japan,NC,33,Max Verstappen,Red Bull Racing Honda,5,14,DNF,0,No
+Mexico,5,23,Alexander Albon,Red Bull Racing Honda,5,71,+21.399,10,No
+Mexico,6,33,Max Verstappen,Red Bull Racing Honda,4,71,+68.807,8,No
+Mexico,7,11,Sergio Perez,Racing Point BWT Mercedes,11,71,+73.819,6,No
+Mexico,9,10,Pierre Gasly,Scuderia Toro Rosso Honda,10,70,+1 lap,2,No
+United States,3,33,Max Verstappen,Red Bull Racing Honda,3,56,+5.002,15,No
+United States,5,23,Alexander Albon,Red Bull Racing Honda,6,56,+78.038,10,No
+United States,10,11,Sergio Perez,Racing Point BWT Mercedes,20,55,+1 lap,1,No
+United States,16,10,Pierre Gasly,Scuderia Toro Rosso Honda,10,54,DNF,0,No
+Brazil,1,33,Max Verstappen,Red Bull Racing Honda,1,71,1:33:14.678,25,No
+Brazil,2,10,Pierre Gasly,Scuderia Toro Rosso Honda,6,71,+6.077,18,No
+Brazil,9,11,Sergio Perez,Racing Point BWT Mercedes,15,71,+11.529,2,No
+Brazil,14,23,Alexander Albon,Red Bull Racing Honda,5,71,+14.927,0,No
+Abu Dhabi,2,33,Max Verstappen,Red Bull Racing Honda,2,55,+16.772,18,No
+Abu Dhabi,6,23,Alexander Albon,Red Bull Racing Honda,5,55,+69.205,8,No
+Abu Dhabi,7,11,Sergio Perez,Racing Point BWT Mercedes,10,54,+1 lap,6,No
+Abu Dhabi,18,10,Pierre Gasly,Scuderia Toro Rosso Honda,11,53,+2 laps,0,No
