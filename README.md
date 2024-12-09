@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Alex Albon vs. Sergio "Checo" Perez: Red Bull Racing Performance Comparison** project! This analysis aims to compare the performances of Alex Albon and Sergio Perez during their time at Red Bull Racing, focusing on their ability to compete against Max Verstappen. By examining their progression over seasons, adaptability across teams, and lap times, we explore whether Red Bull made the right decision in replacing Albon with Perez.
+Welcome to the Alex Albon vs. Sergio "Checo" Perez: Red Bull Racing Performance Comparison project! This analysis aims to compare the performances of Alex Albon and Sergio Perez during their time at Red Bull Racing, focusing on their ability to compete against Max Verstappen. By examining their progression over seasons, adaptability across teams, and lap times, we explore whether Red Bull made the right decision in replacing Albon with Perez.
 
 ## Technologies
 
